@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amgdy/amgdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&pause=1000&center=true&random=false&width=400&height=100&lines=Welcome+%F0%9F%91%8B+to+my+GitHub+Profile;My+name+is+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ahmed+Magdy+;I+work+as+Azure+Technology+Specialist+at+Microsoft;Digital+%26+App+Innovation)](https://git.io/typing-svg)
 
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgdy&show_icons=true&count_private=true&theme=radical)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgdy&show_icons=true&count_private=true)
+## Find me at
+ - LinkedIn: [in/ahmedmagdy](https://www.linkedin.com/in/ahmedmagdy)
+ - Twitter: [@amgdy](https://twitter.com/amgdy)
